@@ -1,4 +1,4 @@
-# Stand Rotativ pentru Scanare 3D
+# Stand rotativ pentru Scanare 3D
 ## Proiect Proiectare cu Microprocesoare
 
 ![poza ansamblu](Poze%20proiect/proiect-pm1.jpg)
