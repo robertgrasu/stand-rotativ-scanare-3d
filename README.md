@@ -62,4 +62,4 @@ Carcasa a fost proiectată în Autodesk Fusion 360 și imprimată 3D. Aceasta co
 
 Structura interioară a standului
 
-![Interior stand](Poze%20proiect/proiect-pm4.png)
+![Interior stand](Poze%20proiect/proiect_pm4.png)
